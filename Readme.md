@@ -1,6 +1,6 @@
 # Diwali 2022 Sales on Amazon: A Comprehensive Analysis
 
-Amazon sales for Diwali in 2022 were analyzed using Tableau.
+Amazon sales for Diwali in 2022 were analyzed using ***Tableau***.
 
 ## Fashion Products Dashboard
 ![image](https://user-images.githubusercontent.com/114976742/211363899-427aeafc-cedf-44eb-af10-d6506db49e38.png)
