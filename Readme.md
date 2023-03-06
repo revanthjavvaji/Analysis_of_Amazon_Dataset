@@ -2,7 +2,7 @@
 
 Amazon sales for Diwali in 2022 were analyzed using ***Tableau***.
 
-Souce : [Kaggle](https://www.kaggle.com/datasets/adityak957/amazon-diwali-sales-2k22)
+Source : [Kaggle](https://www.kaggle.com/datasets/adityak957/amazon-diwali-sales-2k22)
 
 ## Fashion Products Dashboard
 ![image](https://user-images.githubusercontent.com/114976742/211363899-427aeafc-cedf-44eb-af10-d6506db49e38.png)
